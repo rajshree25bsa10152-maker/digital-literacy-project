@@ -1,11 +1,6 @@
 # Task 1: Digital Literacy Infographic
 
-# Task 1: Digital Literacy Infographic
 
-## 📊 Infographic Preview
-Below is my designed infographic:
-
-![Infographic](infographic.png)
 
 ---
 
