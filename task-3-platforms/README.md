@@ -21,6 +21,7 @@ Click here to access the quiz:
 In this task, I created a Google Form titled "Digital Literacy Awareness Quiz" to assess the basic understanding of digital literacy among students. The quiz consists of exactly five questions, including multiple-choice and short answer types, covering topics such as digital safety, online behavior, and professional platforms.
 
 The purpose of this quiz is to spread awareness about responsible use of technology and encourage students to think critically before interacting online.
+I have also uploaded the screen shot of completeing task 1 in HackerRank.
 
 ---
 
